@@ -1,0 +1,17 @@
+{
+  "name": "template_package",
+  "homepage": "https://github.com/quangdm-2954/template_package",
+  "authors": [
+    "quangdm-2954 <doan.minh.quang@sun-asterisk.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
