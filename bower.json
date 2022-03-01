@@ -5,7 +5,7 @@
     "quangdm-2954 <doan.minh.quang@sun-asterisk.com>"
   ],
   "description": "",
-  "main": "",
+  "main": "assets",
   "license": "MIT",
   "ignore": [
     "!/assets",
